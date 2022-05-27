@@ -1,0 +1,14 @@
+/home/william/Documentos/Hemeroteca/src/main/java/daos/NoteDao.java
+/home/william/Documentos/Hemeroteca/src/main/java/models/Note.java
+/home/william/Documentos/Hemeroteca/src/main/java/daos/UserDao.java
+/home/william/Documentos/Hemeroteca/src/main/java/controllers/CategoryController.java
+/home/william/Documentos/Hemeroteca/src/main/java/daos/CategoryDao.java
+/home/william/Documentos/Hemeroteca/src/main/java/models/Contribution.java
+/home/william/Documentos/Hemeroteca/src/main/java/models/Category.java
+/home/william/Documentos/Hemeroteca/src/main/java/validacionesUser/ValidacionesUser.java
+/home/william/Documentos/Hemeroteca/src/main/java/controllers/NoteController.java
+/home/william/Documentos/Hemeroteca/src/main/java/daos/ContributionDao.java
+/home/william/Documentos/Hemeroteca/src/main/java/controllers/UserController.java
+/home/william/Documentos/Hemeroteca/src/main/java/controllers/ContributionController.java
+/home/william/Documentos/Hemeroteca/src/main/java/models/User.java
+/home/william/Documentos/Hemeroteca/src/main/java/connection/DbConnection.java
